@@ -76,7 +76,7 @@ A complete, modern e-commerce product catalog with advanced filtering, search fu
 #### 1. Download & Extract
 ```bash
 # Clone or download the repository
-git clone https://github.com/yourusername/ecommerce-catalog.git
+git clone https://github.com/CHANGED-1/ecommerce.git
 ```
 
 #### 2. Move to Web Directory
@@ -658,7 +658,7 @@ Contributions welcome! Here's how:
 MIT License - Free to use for personal and commercial projects
 
 ```
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2025 Guloba Moses
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -671,11 +671,11 @@ copies of the Software.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Guloba Moses**
 - Website: [yourwebsite.com](https://yourwebsite.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your@email.com
+- GitHub: [@CHANGED-1](https://github.com/CHANGED-1)
+<!-- - LinkedIn: [Guloba Moses](https://linkedin.com/in/yourprofile) -->
+- Email: consult@guloba.com
 
 ---
 
@@ -693,9 +693,9 @@ copies of the Software.
 Need help?
 
 1. **Documentation** - Read this complete guide
-2. **Issues** - Check [existing issues](https://github.com/yourusername/ecommerce/issues)
-3. **Discussions** - Join [community discussions](https://github.com/yourusername/ecommerce/discussions)
-4. **Email** - Contact: your@email.com
+2. **Issues** - Check [existing issues](https://github.com/CHANGED-1/ecommerce/issues)
+3. **Discussions** - Join [community discussions](https://github.com/CHANGED-1/ecommerce/discussions)
+4. **Email** - Contact: consult@guloba.com
 
 ---
 
@@ -750,5 +750,5 @@ If you found this helpful:
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
 *Version: 1.0.0*
